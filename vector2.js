@@ -114,3 +114,5 @@ Vector2.prototype.equals = function (v) {
 Vector2.prototype.hash = function () {
     return this.x * 31 + this.y;
 };
+
+exports = Vector2;

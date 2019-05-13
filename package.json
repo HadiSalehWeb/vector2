@@ -1,0 +1,23 @@
+{
+  "name": "@hadis/vector2",
+  "version": "1.0.0",
+  "description": "A simple vector2 type",
+  "main": "vector2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HadiSalehWeb/vector2.git"
+  },
+  "keywords": [
+    "vector",
+    "vector2"
+  ],
+  "author": "Hadi Saleh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HadiSalehWeb/vector2/issues"
+  },
+  "homepage": "https://github.com/HadiSalehWeb/vector2#readme"
+}

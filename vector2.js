@@ -115,4 +115,4 @@ Vector2.prototype.hash = function () {
     return this.x * 31 + this.y;
 };
 
-exports = Vector2;
+module.exports = Vector2;

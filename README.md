@@ -1,12 +1,13 @@
 # vector2
 A simple vector2 type.
 
-NPM:
+### NPM
+
 ```
 npm install @hadis/vector2
 ```
 
-Example:
+### Example
 
 ```javascript
 const Vector2 = require('vector2');

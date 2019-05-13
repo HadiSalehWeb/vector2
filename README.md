@@ -1,6 +1,11 @@
 # vector2
 A simple vector2 type.
 
+NPM:
+```
+npm install @hadis/vector2
+```
+
 Example:
 
 ```javascript

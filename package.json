@@ -1,6 +1,6 @@
 {
   "name": "@hadis/vector2",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple vector2 type",
   "main": "vector2.js",
   "scripts": {
